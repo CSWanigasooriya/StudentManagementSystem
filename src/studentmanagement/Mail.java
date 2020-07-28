@@ -12,7 +12,6 @@ import java.util.Properties;
 
 /**
  * Created by Chamath Wanigasooriya
- * User: 36-se-0004@kdu.ac.lk
  * Date: 29/10/2020
  */
  
